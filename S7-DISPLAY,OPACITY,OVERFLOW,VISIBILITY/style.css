@@ -1,0 +1,151 @@
+#indexbody{
+    background-color:pink ;
+}
+
+#NATIONALNAMES{
+    background-color: aqua;
+    width: 500px;
+    color:red;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px greenyellow ;
+
+}
+#bird{
+    background-color: rgb(255, 106, 0);
+    width: 300px;
+    color: yellowgreen;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+}
+#peacock{
+    background-color: rgb(0, 255, 110);
+    width: 200px;
+    color: blue;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+}
+#peacockpic{
+    width: 500px;
+}
+#peacockpara{
+    background-color: aquamarine;
+    text-align: justify;
+    color: brown;
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+}
+#animal{
+    background-color: rgb(255, 255, 0);
+    width: 300px;
+    color:rgb(255, 0, 255);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+
+}
+#tiger{
+    background-color: rgb(255, 0, 251);
+    width: 300px;
+    color:rgb(255, 157, 0);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+
+}
+#tigerpara{
+    background-color: skyblue;
+    text-align: right;
+    color: brown;
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+    opacity: 0.3;
+
+}
+#flower{
+    background-color: rgb(247, 0, 255);
+    width: 300px;
+    color:rgb(34, 0, 255);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+}
+#lotus{
+    background-color: rgb(43, 0, 255);
+    width: 300px;
+    color:rgb(204, 0, 255);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+
+}
+#lotuspic{
+    width: 400px;
+}
+#lotuspara{
+    background-color: rgb(63, 101, 162);
+    text-align: right;
+    color: rgb(46, 42, 165);
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+
+}
+#sport{
+    background-color: rgb(0, 255, 68);
+    width: 300px;
+    color:rgb(255, 0, 0);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+
+}
+#hocky{
+    background-color: rgb(0, 255, 255);
+    width: 300px;
+    color:rgb(91, 62, 144);
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 50px;
+    text-shadow:10px 10px 10px darkmagenta ;
+
+}
+#hockypara{
+    background-color: rgb(167, 175, 189);
+    text-align: right;
+    color: rgb(165, 42, 147);
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+
+}
+#hockypic{
+    width: 500px;
+    opacity: 0.5;
+}
+    
+   
+
